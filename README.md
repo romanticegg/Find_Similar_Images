@@ -10,7 +10,7 @@ The Similarity of Images have been classified into 4 categories:
 For the use of this project, make sure OpenCV2 is installed with SIFT/SURF features along with other libraries like matplotlib, scipy, numpy etc.
 
 Clone the repository by using
->> git clone https://github.com/mansigoel/Find_Similar_Images.git
+>> git clone https://github.com/mansigoel/Find_Similar_Images.git  
 >> cd Find_Similar_Images
 
 Create a folder 'Dataset' and add all the images there
